@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<GeneralStatistics>
+    <Statistic name="count">
+        <StatisticMap key="1" value="1048576" />
+    </Statistic>
+    <Statistic name="max">
+        <StatisticMap key="1" value="[1, 0]" />
+    </Statistic>
+    <Statistic name="mean">
+        <StatisticMap key="1" value="[1, 0]" />
+    </Statistic>
+    <Statistic name="min">
+        <StatisticMap key="1" value="[1, 0]" />
+    </Statistic>
+    <Statistic name="std">
+        <StatisticMap key="1" value="[0, 0]" />
+    </Statistic>
+</GeneralStatistics>
